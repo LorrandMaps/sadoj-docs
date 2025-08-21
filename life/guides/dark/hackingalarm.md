@@ -1,4 +1,4 @@
- pendant # Piratage d'alarme
+# Piratage d'alarme
 
 > Auteur de la page: Lorr'and Maps.
 
