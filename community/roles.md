@@ -207,8 +207,8 @@
         </ul>
       </td>
       <td style="text-align: center;">1 (1 max)</td>
-      <td style="text-align: center;">Romno</td>
-      <td style="text-align: center;">Romno</td>
+      <td style="text-align: center;">Eliott</td>
+      <td style="text-align: center;">Eliott</td>
       <td style="text-align: center;">Volontaire</td>
     </tr>
     <td style="text-align: center;">X (Twitter)</td>
@@ -256,8 +256,8 @@
         </ul>
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
-      <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Kuro, Esteban, Dylan51, UrtomT, Mentalomane, CharlieS</td>
+      <td style="text-align: center;">??</td>
+      <td style="text-align: center;">Florian, Kuro, Esteban, Dylan51, UrtomT, Mentalomane, CharlieS</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -272,7 +272,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">???</td>
-      <td style="text-align: center;">Police :<br>Thomas, Thibault59, Emmanuel<br><br>Dark : <br>Lorrandmaps, Rox, wrc, Valdum<br><br>Référents RP/HRP :<br>WRC</li>
+      <td style="text-align: center;">Police :<br>Thomas, sveltio, Emmanuel<br><br>Dark : <br>Lorrandmaps, Thibault_59, wrc, Valdum<br><br>Référents RP/HRP :<br>WRC</li>
       </td>
       <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
@@ -342,7 +342,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Thomas, Remigdv, Valdum, Dylan51, Pierre_19, Emmanuel, Pierre</td>
+      <td style="text-align: center;">Thomas, Remigdv, Spen82, Dylan51, Pierre_19, Emmanuel, Pierre</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
@@ -390,9 +390,9 @@
       <ul>
       <li>Se rendre disponible si un membre souhaite ajouter une information à un sujets ou si un auteur souhaite supprimer / modifier son sujet </li>
       </td>
-      <td style="text-align: center;">7</td>
+      <td style="text-align: center;">8</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Roni, Elkas, Bragon, Valdum, Spen82, XanderTV</td>
+      <td style="text-align: center;">Pierre, Roni, Elkas, Bragon, Valdum, Spen82, XanderTV, RemiGDV</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Gestionnaire VPS</td>

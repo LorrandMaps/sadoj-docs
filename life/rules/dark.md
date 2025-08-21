@@ -196,10 +196,8 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 ## Les courses poursuites
 
-* Il faut privilégier au maximum les courses poursuites et pitt en dernier recours si danger pour la population (tir, accident, trottoir…).
 * La conduite doit rester réaliste.
-* Les tunnels ne doivent être utilisés qu’en dernier recours qu’après plusieurs minutes de poursuite.
-* Les herses ne peuvent être utilisées qu’après 2 minutes minimum.
+* Le Groupe Dark reste attentif aux comportements pouvant entraîner un écourtement (Off-Road, PIT brutal, circulation sur des terrains inadaptés, etc.) et n’hésitera pas, si nécessaire, à intervenir pour veiller au respect des règles.
 
 ## Les services où l’illégal est interdit
 

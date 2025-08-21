@@ -39,6 +39,7 @@
 ## La vie / la mort
 
 * La valeur de la vie : préserver la vie de votre personnage doit être plus important que tout le reste. Ne pas se rendre/fuir/obtempérer, en situation désespérée, sera considéré comme du No-Fear-Rôle-Play (grosse infériorité numérique et de moyen avec la police, hélico etc.., encerclé par l’ennemi, etc…).
+* Chaque personnage doit disposer d’au moins un lieu de vie, qu’il soit légal ou non, tant qu’il est cohérent et reconnu comme un espace où il est possible de dormir (squat, planque, logement, etc.). Un lieu de travail ne peut pas faire office de logement. Les personnages volontairement sans-abri sont autorisés, à condition que ce soit un choix RP cohérent et pleinement assumé dans leur jeu.
 * Pour la perte de mémoire suite à un état inconscient, se référer à l’image:
 
 <img src="../../_media/life/rules/perte_de_memoire.png" alt="Perte de mémoire" style="max-width: 750px;">
@@ -94,7 +95,7 @@ Voir [ce document](life/rules/perpetuity.md).
 * Le second personnage a le droit de louer, acheter et vendre un bien immobilier sur le plan professionnel ou personnel.
 * L’avatar à le droit de prétendre à tous les emplois présent sur le serveur.
   * Exceptions :
-    * Il est interdit d’avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
+    * Il est interdit d’avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, procureur, etc …) (hors avocat).
     * Il est interdit d'avoir deux personnages sénateurs.
     * Il est interdit d'avoir un personnage sénateur et un autre gouverneur ou lieutenant-gouverneur.
     * Il est interdit d’avoir un personnage dans une organisation et un autre dans la police (tous services confondus).
@@ -111,6 +112,7 @@ Voir [ce document](life/rules/perpetuity.md).
 * La conduite sur piste en sable ou terre sans passage difficile, trous, et relativement plat ne nécessite pas de véhicule adapté.
 * Si le véhicule ne possède pas physiquement d’arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
 * Les véhicules de police doivent avoir une puissance équivalente à leur version civile, avec une tolérance de pourcentage définie par le groupe de validation des véhicules.
+* Il est interdit de ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l’activité exercée par la structure qui l’utilise. Il est important de noter que les véhicules des clients, des employés, des fonctionnaires ou des membres d’une association ne sont, par définition, pas considérés comme liés à l’activité, puisqu’ils n’appartiennent pas à la structure.
 
 ## Immobilier
 
@@ -181,7 +183,8 @@ Une exception est toutefois admise si l’ensemble des avocats exercent au sein 
 * L’utilisation des notifications en jeux est autorisé dans les conditions suivantes:
   * Message de prévention (alerte trafic, sensibilisation, …).
   * Annonce d’évènement (audience, course, soirée publique, …).
-* Il est interdit d’acheter un véhicule destiné à une société si vous ne faites pas partie de la société et/ou si le patron n’a pas donné son accord. De même, il est interdit d’acheter un véhicule destiné au service public (police, médecins, pompiers, etc.) si vous ne faites pas partie du service et/ou si le chef n’a pas donné son accord.
+* Il est strictement interdit d’acheter un véhicule destiné à une entreprise si vous n’en faites pas partie ou si le dirigeant n’a pas expressément donné son accord. De la même manière, vous ne pouvez pas acquérir un véhicule réservé aux services publics (police, médecins, pompiers, etc.) sans appartenir à ce service ou sans l’autorisation du chef de service.
+  * Concernant les coverings, qu’ils soient utilisés par une société, un service public ou un particulier, certaines textures peuvent être estampillées « exclu ». Dans ce cas, toute modification ou acquisition de ce covering « exclu » doit faire l’objet d’une demande préalable auprès de son créateur (demandez sur le Discord DEV si vous ne savez pas de qui il s’agit).
 * La communauté n'a pas le pouvoir de modifier tout document RP (tout document pouvant être cité en RP). Seul(s) le(s) groupe(s) concerné(s) peut/peuvent y apporter des modifications. Le(s) groupe(s) concerné(s) conserve le droit de solliciter l'avis de la communauté pour une modification importante.
 * Une ancienneté de 1 mois est nécessaire dans la communauté pour être sénateur.
 
