@@ -249,6 +249,47 @@ L’informateur est inclus dans le prix de création de l’organisation.
     * Si la personne revient à la charge suite à une échappatoire, le dossier de mort RP dark est toujours valide et donc l’auteur peut tuer la personne.
 * La cible sera prévenue une fois la scène de Mort Dark effectuée.  
 
+## Mort RP Justice & Extension Mort RP Dark
+### Extension Mort RP Dark 
+* Dans le cadre d’une situation exceptionnelle, lorsqu’un individu Dark est acculé par la Justice (multiplication de mandats, poursuites actives, pression policière constante), celui-ci peut, par une justification RP solide, solliciter la mort RP de certains acteurs judiciaires directement impliqués dans son dossier :
+
+  * Les enquêteurs principaux en charge de l’affaire.
+  * Les juges ayant signé les mandats d’arrêt ou d’investigation.
+  * Les procureurs responsables des poursuites.
+
+* Cette demande doit respecter les conditions suivantes :
+
+  * Justification RP obligatoire : L’action doit être crédible, préparée et s’inscrire dans la continuité logique du RP.
+  * Validation collégiale : La demande doit être approuvée par le Groupe Dark, afin d’éviter les abus et de garantir un impact équilibré.
+  * Action coordonnée : La scène doit impliquer plusieurs joueurs et se dérouler dans un scénario construit, et non en simple règlement de compte.
+  * Caractère unique et exceptionnel : Ce type de demande ne peut être formulé qu’une seule fois par personnage, dans une situation critique où il est réellement "dos au mur".
+
+### Mort RP Justice
+
+* En contrepartie, lorsque la Mort RP Dark visant la Justice est validée, les autorités judiciaires obtiennent le droit symétrique de solliciter une Mort RP Justice.
+* Celle-ci peut concerner le joueur Dark ayant initié la demande ou ses collaborateurs proches (bras droits, complices majeurs).
+* La Justice doit démontrer l’implication RP du joueur Dark et la gravité de ses actes.
+* La Mort RP Justice doit également obtenir une validation administrative afin de garantir l’équilibre du serveur.
+
+### Conditions d’éligibilité spécifiques
+
+* Un joueur peut être éligible à la Mort Justice après deux récidives d’un des chefs d’accusation suivants :
+
+  * Article 4.2.1 – Homicide involontaire
+  * Article 4.2.2 – Meurtre au premier degré
+  * Article 4.2.3 – Meurtre au second degré
+  * Article 4.2.4 – Séquestration
+  * Article 4.2.5 – Enlèvement
+  * Article 4.2.6 – Acte de barbarie
+  * Article 5.2.3 – Trahison
+  * Article 6.2.5 – Incendie volontaire
+  * Article 9.3.2 – Trafic illégal d’explosifs
+  * Article 9.3.3 – Stockage illégal d’explosifs
+  * Article 9.3.4 – Usage illégal d’un explosif
+
+* Pour engager un tel dossier, le joueur Dark doit être recherché pour au moins 3 de ces chefs d’accusation et/ou récidives.
+* La demande doit être accompagnée de preuves RP claires (rapports, écoutes, vidéos, témoignages, etc.) justifiant la gravité des faits et l’implication directe de la Justice.
+
 ## Hôpitaux et médecins dark
 
 * Les hopitaux et médecins dark permettent aux membres de gang ou d’organisation de se faire soigner de manière discrète.
